@@ -1,3 +1,10 @@
 ### Hi there 👋
 
-I’m Maycon Amaro, and I’m a MSc in Computer Science and a temporary professor at Federal University of Ouro Preto. I’m passionate about formal methods, functional programming and theoretical foundations, design and implementation of programming languages. I **love** compilers! I hope you enjoy my github profile.
+I’m Maycon Amaro, a brazilian MSc in Computer Science and a former professor at the Federal University of Ouro Preto. Currently, I work as a Software Development Engineer in Test at a payments company. 
+
+I **love** compilers! And that includes:
+- formal methods
+- functional programming
+- type theory
+- design and implementation of programming languages
+- standard libraries
